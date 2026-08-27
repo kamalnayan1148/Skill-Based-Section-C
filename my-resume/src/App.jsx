@@ -1,13 +1,11 @@
-import './App.css'
-import Demo from './components/Demo'
+import Demo from "./assets/components/Demo.jsx";
 
 function App() {
-  
-
-  return(
+  return (
     <>
-    <Demo/>
+      <Demo />
     </>
-  )
+  );
 }
-export default App()
+
+export default App;
